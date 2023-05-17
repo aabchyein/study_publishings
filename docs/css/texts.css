@@ -1,0 +1,26 @@
+.chorus {
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+.verse {
+    color:yellow;
+    background-color: blanchedalmond;
+}
+.verses {
+    color:blue;
+    text-align: center;
+}
+.choruss {
+    color:green;
+    font-size: 12px;
+}
+body {
+    background-color: burlywood;
+}
+
+.text_effect {
+    font-weight: 900;
+    font-size: 20px;
+    color: coral;
+    text-shadow: 5px 5px 5px black;
+}
